@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+.titulo{
+    color: red;
+    text-align: center;
+}
+.container{
+    display: flex;
+    text-align: center;
+    gap: 2;
+}
