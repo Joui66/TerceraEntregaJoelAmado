@@ -2,11 +2,18 @@ body{
     background-color: aquamarine;
 }
 .titulo{
-    color: red;
+    color: yellowgreen;
     text-align: center;
 }
 .container{
     display: flex;
     text-align: center;
     gap: 2;
+}
+
+.fondo{
+    background-image: url(./img/Charizard\ fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
 }
